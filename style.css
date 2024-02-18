@@ -44,12 +44,12 @@ h1 {
 }
 
 .navbar-brand {
-    font-size: 24px; /* Tamaño de fuente del título */
+    font-size: 40px; /* Tamaño de fuente del título */
 }
 
 .navbar-nav .nav-link {
     color: #ffffff; /* Color del texto de los enlaces */
-    font-size: 18px; /* Tamaño de fuente de los enlaces */
+    font-size: 25px; /* Tamaño de fuente de los enlaces */
 }
 
 .navbar-nav .nav-link:hover {
