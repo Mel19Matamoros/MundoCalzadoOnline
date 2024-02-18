@@ -84,17 +84,3 @@ footer {
 	text-align: center;
 }
 
-@media only screen and (max-width: 600px) {
-    .containere {
-        padding: 20px 10px; /* Reduce el padding en pantallas pequeñas */
-    }
-
-    ul {
-        flex-direction: column; /* Apila los elementos de la lista verticalmente */
-        align-items: center; /* Centra los elementos de la lista */
-    }
-
-    ul li {
-        margin: 0.5rem 0; /* Agrega espacio entre los elementos de la lista */
-    }
-}
