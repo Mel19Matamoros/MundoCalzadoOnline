@@ -63,7 +63,7 @@ footer {
     background-color: #273746; /* Color de fondo */
     color: white; /* Color del texto */
     padding: 10px; /* Espaciado interno */
-    text-align: center;
+	text-align: center;
 }
 
 @media screen and (max-width: 500px) {
